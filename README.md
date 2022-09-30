@@ -156,3 +156,6 @@ optional token and admin role
 | `phone`      | `int` | **Required**. |
 | `idNumber`      | `string` | **Required**. |
 | `area`      | `string` | **Required**. |
+
+
+[![Codeac](https://static.codeac.io/badges/2-540988802.svg "Codeac")](https://app.codeac.io/github/Jhonny-Picado/Prueba)
